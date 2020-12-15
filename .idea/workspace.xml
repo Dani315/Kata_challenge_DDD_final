@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6123f2db-c74e-45c5-b107-da5527e18a22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k749okdDLjlLP8KKDfg1gCfNRY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/challenge_DDD" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.challenge.usecase" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.challenge.usecase" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AddNewMemberToClanUseCaseTest">
+    <configuration name="AddNewMemberToClanUseCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge_DDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenge.usecase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.challenge.usecase" />
+      <option name="MAIN_CLASS_NAME" value="com.challenge.usecase.AddNewMemberToClanUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeDojoMeetUrlUseCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge_DDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenge.usecase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.challenge.usecase" />
+      <option name="MAIN_CLASS_NAME" value="com.challenge.usecase.ChangeDojoMeetUrlUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateClanUseCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge_DDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenge.usecase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.challenge.usecase" />
+      <option name="MAIN_CLASS_NAME" value="com.challenge.usecase.CreateClanUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateDojoUseCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge_DDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenge.usecase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.challenge.usecase" />
+      <option name="MAIN_CLASS_NAME" value="com.challenge.usecase.CreateDojoUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.challenge.usecase in challenge_DDD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge_DDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenge.usecase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.challenge.usecase" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.challenge.usecase in challenge_DDD" />
+        <item itemvalue="JUnit.AddNewMemberToClanUseCaseTest" />
+        <item itemvalue="JUnit.CreateClanUseCaseTest" />
+        <item itemvalue="JUnit.CreateDojoUseCaseTest" />
+        <item itemvalue="JUnit.ChangeDojoMeetUrlUseCaseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6123f2db-c74e-45c5-b107-da5527e18a22" name="Default Changelist" comment="" />
+      <created>1605038148011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605038148011</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1605115629879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605115629879" />
+    <state x="-1019" y="162" width="439" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605127043920">
+      <screen x="-1600" y="-137" width="1600" height="860" />
+    </state>
+    <state x="-1019" y="162" width="439" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/-1600.-137.1600.860@-1600.-137.1600.860" timestamp="1605127043920" />
+    <state x="380" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605072345358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605072345358" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605041111302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605041111302" />
+    <state x="-1058" y="4" key="FileChooserDialogImpl" timestamp="1605133975050">
+      <screen x="-1600" y="-137" width="1600" height="860" />
+    </state>
+    <state x="-1058" y="4" key="FileChooserDialogImpl/0.0.1366.728/-1600.-137.1600.860@-1600.-137.1600.860" timestamp="1605133975050" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605052675354" />
+    <state width="1323" height="84" key="GridCell.Tab.0.bottom" timestamp="1605132358130">
+      <screen x="-1600" y="-137" width="1600" height="860" />
+    </state>
+    <state width="1323" height="84" key="GridCell.Tab.0.bottom/0.0.1366.728/-1600.-137.1600.860@-1600.-137.1600.860" timestamp="1605132358130" />
+    <state width="1323" height="365" key="GridCell.Tab.0.bottom/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605120800751" />
+    <state width="1323" height="84" key="GridCell.Tab.0.center" timestamp="1605132358129">
+      <screen x="-1600" y="-137" width="1600" height="860" />
+    </state>
+    <state width="1323" height="84" key="GridCell.Tab.0.center/0.0.1366.728/-1600.-137.1600.860@-1600.-137.1600.860" timestamp="1605132358129" />
+    <state width="1323" height="365" key="GridCell.Tab.0.center/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605120800751" />
+    <state width="1323" height="84" key="GridCell.Tab.0.left" timestamp="1605132358129">
+      <screen x="-1600" y="-137" width="1600" height="860" />
+    </state>
+    <state width="1323" height="84" key="GridCell.Tab.0.left/0.0.1366.728/-1600.-137.1600.860@-1600.-137.1600.860" timestamp="1605132358129" />
+    <state width="1323" height="365" key="GridCell.Tab.0.left/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605120800751" />
+    <state width="1323" height="84" key="GridCell.Tab.0.right" timestamp="1605132358129">
+      <screen x="-1600" y="-137" width="1600" height="860" />
+    </state>
+    <state width="1323" height="84" key="GridCell.Tab.0.right/0.0.1366.728/-1600.-137.1600.860@-1600.-137.1600.860" timestamp="1605132358129" />
+    <state width="1323" height="365" key="GridCell.Tab.0.right/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605120800751" />
+    <state width="1323" height="84" key="GridCell.Tab.1.bottom" timestamp="1605132358130">
+      <screen x="-1600" y="-137" width="1600" height="860" />
+    </state>
+    <state width="1323" height="84" key="GridCell.Tab.1.bottom/0.0.1366.728/-1600.-137.1600.860@-1600.-137.1600.860" timestamp="1605132358130" />
+    <state width="1323" height="84" key="GridCell.Tab.1.bottom/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605118842622" />
+    <state width="1323" height="84" key="GridCell.Tab.1.center" timestamp="1605132358130">
+      <screen x="-1600" y="-137" width="1600" height="860" />
+    </state>
+    <state width="1323" height="84" key="GridCell.Tab.1.center/0.0.1366.728/-1600.-137.1600.860@-1600.-137.1600.860" timestamp="1605132358130" />
+    <state width="1323" height="84" key="GridCell.Tab.1.center/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605118842622" />
+    <state width="1323" height="84" key="GridCell.Tab.1.left" timestamp="1605132358130">
+      <screen x="-1600" y="-137" width="1600" height="860" />
+    </state>
+    <state width="1323" height="84" key="GridCell.Tab.1.left/0.0.1366.728/-1600.-137.1600.860@-1600.-137.1600.860" timestamp="1605132358130" />
+    <state width="1323" height="84" key="GridCell.Tab.1.left/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605118842622" />
+    <state width="1323" height="84" key="GridCell.Tab.1.right" timestamp="1605132358130">
+      <screen x="-1600" y="-137" width="1600" height="860" />
+    </state>
+    <state width="1323" height="84" key="GridCell.Tab.1.right/0.0.1366.728/-1600.-137.1600.860@-1600.-137.1600.860" timestamp="1605132358130" />
+    <state width="1323" height="84" key="GridCell.Tab.1.right/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605118842622" />
+    <state x="454" y="186" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605114433639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="186" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605114433639" />
+    <state x="478" y="111" key="refactoring.ChangeSignatureDialog" timestamp="1605066077924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="478" y="111" key="refactoring.ChangeSignatureDialog/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605066077924" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1605040396424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1605040396424" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="co.com.sofka.domain.generic.ChangeEventSubscriber" memberName="changes" />
+        <PinnedItemInfo parentTag="com.challenge.domain.dojo.Dojo" memberName="changeEventSubscriber" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/challenge_DDD$com_challenge_usecase_in_challenge_DDD.ic" NAME="com.challenge.usecase in challenge_DDD Coverage Results" MODIFIED="1605125450593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.challenge.usecase.*</FILTER>
+    </SUITE>
+  </component>
+</project>
